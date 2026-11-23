@@ -1,3 +1,4 @@
+{/*Updated the codes from W3 schools*/}
 import { createRoot } from 'react-dom/client'
 
 const myElement = <h1>I Love JSX!</h1>;
